@@ -4,6 +4,8 @@ Aplicación de escritorio desarrollada en Java que permite calcular el Índice d
 
 > **Nota:** Este proyecto fue generado utilizando el entorno de desarrollo (IDE) NetBeans, e incluye la estructura estándar de compilación.
 
+<img src="screenshots/Interfaz.gif" alt="Interfaz Principal" width="700"/>
+
 ## Funcionalidades
 
 - **Cálculo Preciso:** Cálculo matemático para determinar el IMC.
@@ -28,6 +30,8 @@ calculadora-masa-muscular/
 
 ## Instrucciones de Ejecución
 Para correr este programa en tu computadora, necesitas tener instalado el JDK (Java Development Kit).
+
+<img src="screenshots/Inicio.png" alt="Interfaz Inicial" width="700"/>
 
 ### Opción A: Desde un IDE (Recomendado)
 Abre NetBeans, IntelliJ o Eclipse.
