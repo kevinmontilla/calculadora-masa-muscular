@@ -23,6 +23,7 @@ Aplicación de escritorio desarrollada en Java que permite calcular el Índice d
 calculadora-masa-muscular/
 ├── nbproject/       # Configuraciones del proyecto (NetBeans)
 ├── src/             # Código fuente (.java) y recursos gráficos
+├── screenshots/     # Capturas de pantalla para la documentación (README)
 ├── build.xml        # Script de construcción de Ant
 ├── manifest.mf      # Metadatos del archivo JAR
 └── README.md        # Documentación
