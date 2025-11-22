@@ -42,3 +42,10 @@ Ejecuta el archivo principal (Main.java o similar dentro de src).
 Lenguaje: Java.
 
 Estado: 🟢 Finalizado.
+
+## Autores
+
+<p style="font-size: 22px; font-family: 'Georgia', serif; line-height: 1.6;">
+  • <strong>Carlos Luna</strong><br>
+  • <strong>Kevin Montilla</strong>
+</p>
